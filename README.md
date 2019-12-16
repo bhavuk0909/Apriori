@@ -1,0 +1,2 @@
+# Apriori
+The Apriori algorithm is a categorization algorithm. Some algorithms are used to create binary appraisals of information or find a regression relationship. Others are used to predict trends and patterns that are originally identified. Apriori is a basic machine learning algorithm which is used to sort information into categories. Sorting information can be incredibly helpful with any data management process. It ensures that data users are appraised of new information and can figure out the data that they are working with.
